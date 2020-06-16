@@ -9,7 +9,7 @@ from setuptools import setup
 
 APP = ['TarWeather.py']
 DATA_FILES = ['--iconfile']
-OPTIONS = {'iconfile': '/Users/taras/Desktop/Projects/TarWeather/TarWeather/wr.icns'}
+OPTIONS = {'iconfile': 'wr.icns'}
 
 setup(
     app=APP,
